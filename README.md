@@ -1,1 +1,1 @@
-# op-rules
+# openclash-rules
