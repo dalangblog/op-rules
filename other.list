@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,pianyuan
 DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,tmdb
-
+DOMAIN-KEYWORD,bmcx
 
 # - PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 # - DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
