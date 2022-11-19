@@ -1,6 +1,11 @@
 # 其他直连
 
 DOMAIN-SUFFIX,diygod.asia
+DOMAIN-KEYWORD,douban
+DOMAIN-KEYWORD,mddcloud
+DOMAIN-KEYWORD,ddys
+DOMAIN-KEYWORD,agefans
+DOMAIN-KEYWORD,aliyundrive
 
 # - PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 # - DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
