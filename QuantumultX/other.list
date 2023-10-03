@@ -1,0 +1,20 @@
+# 更新时间2023-10-3
+
+# SyncnextProxy 需要翻牆列表
+HOST,v1.mk
+HOST,notion-api.splitbee.io
+HOST,themoviedb.org
+HOST,thetvdb.com
+HOST,tmdb.org
+HOST,discord.com
+HOST,olevod.com
+HOST,olemovienews.com
+HOST,haiwaikan.com
+HOST,bfvvs.com
+HOST,cdn.venus7202.com
+HOST,cdn.ceres9350.com
+HOST,cdn.efhie.com
+HOST,czzy.site
+HOST,cz01.vip
+HOST,picsum.photos
+HOST,ibb.co
