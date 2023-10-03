@@ -1,26 +1,25 @@
+# 更新时间2023-10-3
 # 其他
 DOMAIN-SUFFIX,san411.com
-# Syncnext
-DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,thetvdb
-DOMAIN-KEYWORD,tmdb
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,olevod
+# SyncnextProxy 需要翻牆列表
 
-DOMAIN-SUFFIX,notion-api.splitbee.io
-DOMAIN-SUFFIX,syncnext-api.5mlstudio.com
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,thetvdb.com
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,api.beijinxuetang.com
-DOMAIN-SUFFIX,olevod.com
-DOMAIN-SUFFIX,olemovienews.com
-DOMAIN-SUFFIX,haiwaikan.com
-DOMAIN-SUFFIX,bfvvs.com
-DOMAIN-SUFFIX,cdn.venus7202.com
-DOMAIN-SUFFIX,cdn.ceres9350.com
-DOMAIN-SUFFIX,cdn.efhie.com
+DOMAIN,v1.mk
+DOMAIN,notion-api.splitbee.io
+DOMAIN,themoviedb.org
+DOMAIN,thetvdb.com
+DOMAIN,tmdb.org
+DOMAIN,discord.com
+DOMAIN,olevod.com
+DOMAIN,olemovienews.com
+DOMAIN,haiwaikan.com
+DOMAIN,bfvvs.com
+DOMAIN,cdn.venus7202.com
+DOMAIN,cdn.ceres9350.com
+DOMAIN,cdn.efhie.com
+DOMAIN,czzy.site
+DOMAIN,cz01.vip
+DOMAIN,picsum.photos
+DOMAIN,ibb.co
 #
 DOMAIN-KEYWORD,pianyuan
 DOMAIN-KEYWORD,bmcx
@@ -38,6 +37,6 @@ DOMAIN-SUFFIX,docker.com
 # 
 DOMAIN-SUFFIX,141ppv.com
 
-# bt
+# bt站点
 DOMAIN-SUFFIX,torrentapi.org
 DOMAIN-SUFFIX,acg.rip
