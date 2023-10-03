@@ -1,8 +1,17 @@
 # 更新时间2023-10-3
 # 其他
 DOMAIN-SUFFIX,san411.com
-# SyncnextProxy 需要翻牆列表
+DOMAIN-KEYWORD,pianyuan
+DOMAIN-KEYWORD,bmcx
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,czspp
+DOMAIN-KEYWORD,olemovienews
+DOMAIN-KEYWORD,haiwaikan
+DOMAIN-KEYWORD,bfvvs
+DOMAIN-KEYWORD,cdn.venus7202
+DOMAIN-KEYWORD,cdn.ceres9350
 
+# SyncnextProxy 需要翻牆列表
 DOMAIN,v1.mk
 DOMAIN,notion-api.splitbee.io
 DOMAIN,themoviedb.org
@@ -20,21 +29,11 @@ DOMAIN,czzy.site
 DOMAIN,cz01.vip
 DOMAIN,picsum.photos
 DOMAIN,ibb.co
-#
-DOMAIN-KEYWORD,pianyuan
-DOMAIN-KEYWORD,bmcx
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,czspp
-DOMAIN-KEYWORD,olemovienews
-DOMAIN-KEYWORD,haiwaikan
-DOMAIN-KEYWORD,bfvvs
-DOMAIN-KEYWORD,cdn.venus7202
-DOMAIN-KEYWORD,cdn.ceres9350
 
 # docker
 DOMAIN-SUFFIX,prclub.notion.site
 DOMAIN-SUFFIX,docker.com
-# 
+# other
 DOMAIN-SUFFIX,141ppv.com
 
 # bt站点
